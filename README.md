@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @behind_you
+- 👋 Hi, I’m @Om Khairnar
 - 👀 I’m interested in javascript React Next.js Typescript
 - 💞️ I’m looking to collaborate on React Next.js  
 - 📫 How to reach me www.linkedin.com/in/omkhairnar
